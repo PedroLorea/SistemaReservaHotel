@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMAccMFrJrkU7kleMAF45cv/oTlXx2x0zlD4dVknOSv3cqy2DPO9zaDQEJfyi1rCgxlu5ByJo61q54z+qBbxfg==",
+  "dgSpecHash": "aXZaFMIBy5ov91ONphq7hhlANFboG70ateOq2qCsxv1pUUgswXX4cUtBxGO0ALueuciIlYBofaXtuh+0O6Pvew==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
+  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

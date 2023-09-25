@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {}
+    "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {}
   },
   "projects": {
     "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-                "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+              "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+                "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+    "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
         "projectName": "Reserva.Domain",
-        "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+        "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Reserva\\Reserva.Domain\\obj\\",
+        "outputPath": "C:\\Dev\\Reserva\\Reserva.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-                "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+              "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+                "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {
+    "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
         "projectName": "Reserva.Infra.IoC",
-        "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+        "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,8 +232,8 @@
               "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
                 "projectPath": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj"
               },
-              "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-                "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+              "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+                "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               },
               "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
                 "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj"
@@ -250,6 +250,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

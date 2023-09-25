@@ -1,0 +1,15 @@
+@model IEnumerable<Reserva.Application.DTOs.HotelDTO>
+
+@{
+    ViewData["Title"] = "Hotéis";
+}
+
+<div>
+    <h2>@ViewData["Title"]</h2>
+</div>
+
+<div>
+    @foreach (var item in Model){
+        <div>@Html.DisplayFor(modelItem => item.Nome)</div>
+    }
+</div>
