@@ -12,12 +12,6 @@ namespace Reserva.Infra.Data.Context {
             _hotelContext = context;
         }
 
-        public async Task<Hotel> Create(Hotel hotel)
-        {
-            _hotelContext.Add(hotel);
-            await _hotelContext.SaveChangesAsync();
-            return hotel;
-        }
 
         public async Task<Hotel?> GetById(int? id)
         {
@@ -29,6 +23,12 @@ namespace Reserva.Infra.Data.Context {
             return await _hotelContext.Hoteis.ToListAsync();
         }
 
+        public async Task<Hotel> Create(Hotel hotel)
+        {
+            _hotelContext.Add(hotel);
+            await _hotelContext.SaveChangesAsync();
+            return hotel;
+        }
         public async Task<Hotel> Remove(Hotel hotel)
         {
             _hotelContext.Remove(hotel);
