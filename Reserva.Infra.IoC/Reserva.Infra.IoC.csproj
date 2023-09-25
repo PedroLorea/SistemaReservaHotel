@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Reserva.Domain\Reserva.Domain.csproj" />
+    <ProjectReference Include="..\Reserva.Application\Reserva.Application.csproj" />
+    <ProjectReference Include="..\Reserva.Infra.Data\Reserva.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

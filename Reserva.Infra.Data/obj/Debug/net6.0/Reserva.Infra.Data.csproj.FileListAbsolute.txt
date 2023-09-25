@@ -1,0 +1,17 @@
+C:\Dev\Reserva\Reserva.Infra.Data\bin\Debug\net6.0\Reserva.Infra.Data.deps.json
+C:\Dev\Reserva\Reserva.Infra.Data\bin\Debug\net6.0\Reserva.Infra.Data.dll
+C:\Dev\Reserva\Reserva.Infra.Data\bin\Debug\net6.0\Reserva.Infra.Data.pdb
+C:\Dev\Reserva\Reserva.Infra.Data\bin\Debug\net6.0\Reserva.Domain.dll
+C:\Dev\Reserva\Reserva.Infra.Data\bin\Debug\net6.0\Reserva.Domain.pdb
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.csproj.AssemblyReference.cache
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.AssemblyInfoInputs.cache
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.AssemblyInfo.cs
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.csproj.CopyComplete
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.dll
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\refint\Reserva.Infra.Data.dll
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.pdb
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\ref\Reserva.Infra.Data.dll
+C:\Dev\Reserva\Reserva.Infra.Data\bin\Debug\net6.0\Reserva.Infra.Data.runtimeconfig.json
+C:\Dev\Reserva\Reserva.Infra.Data\obj\Debug\net6.0\Reserva.Infra.Data.genruntimeconfig.cache

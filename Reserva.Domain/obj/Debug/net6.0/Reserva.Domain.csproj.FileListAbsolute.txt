@@ -1,0 +1,12 @@
+C:\Dev\Reserva\Reserva.Domain\bin\Debug\net6.0\Reserva.Domain.deps.json
+C:\Dev\Reserva\Reserva.Domain\bin\Debug\net6.0\Reserva.Domain.dll
+C:\Dev\Reserva\Reserva.Domain\bin\Debug\net6.0\Reserva.Domain.pdb
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.csproj.AssemblyReference.cache
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.AssemblyInfoInputs.cache
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.AssemblyInfo.cs
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.dll
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\refint\Reserva.Domain.dll
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\Reserva.Domain.pdb
+C:\Dev\Reserva\Reserva.Domain\obj\Debug\net6.0\ref\Reserva.Domain.dll
