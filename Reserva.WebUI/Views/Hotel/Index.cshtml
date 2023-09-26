@@ -7,9 +7,20 @@
 <div>
     <h2>@ViewData["Title"]</h2>
 </div>
-
+<button class="btn btn-success">Criar Hotel</button>
 <div>
     @foreach (var item in Model){
-        <div>@Html.DisplayFor(modelItem => item.Nome)</div>
+        <div>
+            <hr/>
+                <h4>@Html.DisplayNameFor(modelItem => item.Nome)</h4>
+                <div>@Html.DisplayFor(modelItem => item.Nome)</div>
+                <h4>@Html.DisplayNameFor(modelItem => item.Descricao)</h4>
+                <div>@Html.DisplayFor(modelItem => item.Descricao)</div>
+                <br/>
+                <button>Editar</button>
+                <button>Remover</button>
+            <hr/>
+            <br/>
+        </div>
     }
 </div>

@@ -40,7 +40,7 @@ public class HotelServico : IHotelServico
     public async Task Remove(int? id)
     {
         var hotelEntidade = _hotelRepository.GetById(id).Result;
-        await _hotelRepository.Remove(hotelEntidade);
+        if(hotelEntidade != null) await _hotelRepository.Remove(hotelEntidade);
     }
 
     public async Task Update(HotelDTO hotelDTO)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HwOA/7/e182c5ubfjvBeNJRM28Ce/TsQTiBwF7pxCFWnHyNGiHA0W9ETcoXhVcs0B6k18uHltd+T+dik4bMUOg==",
+  "dgSpecHash": "zbKht59CWOJ/Na6A5b3TPFDKVfRgBX1O3gyqIcEj9SnPtDAayQr7/tNkAXZw4b/L6YcNQ3wGrxykY2D7Uvzl7g==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
+  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

@@ -12,11 +12,17 @@ public class HotelController : Controller {
         _hotelServico = hotelServico;
     }
 
+
     [HttpGet]
     public async Task<IActionResult> Index() {
         var hoteis = await _hotelServico.GetHoteis();
         return View(hoteis);
     }
+
+
+    // public async Task<IActionResult> Remover() {
+
+    // }
 
 
 }

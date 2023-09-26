@@ -142,11 +142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
+      "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
       "projectName": "Reserva.Application",
-      "projectPath": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
+      "projectPath": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Reserva\\Reserva.Application\\obj\\",
+      "outputPath": "C:\\Dev\\Reserva\\Reserva.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
