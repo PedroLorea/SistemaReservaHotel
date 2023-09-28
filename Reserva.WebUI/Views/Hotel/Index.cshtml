@@ -7,7 +7,9 @@
 <div>
     <h2>@ViewData["Title"]</h2>
 </div>
-<button class="btn btn-success">Criar Hotel</button>
+
+<a asp-action="Create" class="btn btn-primary">Cadastrar Hotel</a>
+
 <div>
     @foreach (var item in Model){
         <div>

@@ -9,7 +9,15 @@ namespace Reserva.Domain.Entidades{
         public string Descricao { get; private set; }
         public int QntQuartos { get; private set; }
 
-        //Criar um outro construtor sem parametro id
+        public Hotel(string nome, string descricao ){
+
+            DomainExceptionValidation.Quando(string.IsNullOrEmpty(nome), "Nome inválido");
+
+            DomainExceptionValidation.Quando(string.IsNullOrEmpty(descricao), "Descrição inválido");
+
+            Nome = nome;
+            Descricao = descricao;
+        }
 
         public Hotel(int id, string nome, string descricao, int qntQuartos)
         {

@@ -4,14 +4,14 @@
     "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
+    "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
+        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
         "projectName": "Reserva.Application",
-        "projectPath": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
+        "projectPath": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Reserva\\Reserva.Application\\obj\\",
+        "outputPath": "c:\\Dev\\Reserva\\Reserva.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-                "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+              "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+                "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+    "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
         "projectName": "Reserva.Domain",
-        "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+        "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Reserva\\Reserva.Domain\\obj\\",
+        "outputPath": "c:\\Dev\\Reserva\\Reserva.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-                "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+              "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+                "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               }
             }
           }
@@ -229,11 +229,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
-                "projectPath": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj"
+              "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
+                "projectPath": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj"
               },
-              "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-                "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+              "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+                "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               },
               "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
                 "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {}
+    "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+    "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
         "projectName": "Reserva.Domain",
-        "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+        "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Reserva\\Reserva.Domain\\obj\\",
+        "outputPath": "c:\\Dev\\Reserva\\Reserva.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
