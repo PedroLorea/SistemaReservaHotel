@@ -38,5 +38,44 @@ public class HotelController : Controller {
         return View(hotelDTO);
     }
 
+    [HttpGet]
+    public IActionResult Remove(int? id) {
+        if(id == null) return NotFound();
 
+        var hotelDto = _hotelServico.GetById(id);
+
+        if(hotelDto == null) return NotFound();
+
+        return View(hotelDto);
+    }
+
+    [HttpPost, ActionName("Remove")]
+    public async Task<IActionResult> RemoveConfirmation(int id){
+        await _hotelServico.Remove(id);
+        return RedirectToAction(nameof(Index));
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> Edit(int? id) {
+        if(id == null) return NotFound();
+
+        var hotelDto = await _hotelServico.GetById(id);
+
+        if(hotelDto == null) return NotFound();
+
+        return View(hotelDto);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Edit(HotelDTO hotelDTO) {
+
+        if(ModelState.IsValid){
+
+            await _hotelServico.Update(hotelDTO);
+            
+            return View("Index");
+        }
+
+        return View(hotelDTO);
+    }
 }

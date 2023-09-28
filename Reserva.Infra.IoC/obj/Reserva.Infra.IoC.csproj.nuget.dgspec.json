@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {}
+    "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {}
   },
   "projects": {
     "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
+    "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj",
+        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj",
         "projectName": "Reserva.Infra.Data",
-        "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj",
+        "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\obj\\",
+        "outputPath": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {
+    "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+        "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
         "projectName": "Reserva.Infra.IoC",
-        "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+        "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\obj\\",
+        "outputPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,8 +235,8 @@
               "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
                 "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
               },
-              "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
-                "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj"
+              "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
+                "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj"
               }
             }
           }

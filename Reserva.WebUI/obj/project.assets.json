@@ -3071,11 +3071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
+      "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
       "projectName": "Reserva.WebUI",
-      "projectPath": "C:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
+      "projectPath": "c:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Reserva\\Reserva.WebUI\\obj\\",
+      "outputPath": "c:\\Dev\\Reserva\\Reserva.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3092,8 +3092,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {
-              "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj"
+            "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj": {
+              "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj"
             }
           }
         }

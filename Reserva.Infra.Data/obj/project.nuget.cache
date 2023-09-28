@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pMtGfGwa+pZ85ZBVG5gVtRDWsnhS0v4ILbfS9SxK7AeannMt2H0Jjww1DA3BUrf4utTXK7ONPf/yegZg2Mgpcg==",
+  "dgSpecHash": "M7OM6SJ46TKlwipOa1VZEIC/8hCgNBQE8/ShhR5zf+XBVSPTEKhTTIrBUQyC361JfgpvfQ20pzwhwXw97Zc/Gw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj",
+  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

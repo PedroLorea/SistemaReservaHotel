@@ -1,0 +1,26 @@
+@model Reserva.Application.DTOs.HotelDTO;
+
+@{
+    ViewData["Title"] = "Remover Hotel";
+}
+
+<div>
+    <h2>@ViewData["Title"]</h2>
+</div>
+
+<div>
+    @Html.DisplayNameFor(item => item.Nome)
+    @Html.DisplayFor(item => item.Nome)
+
+    @Html.DisplayNameFor(item => item.Descricao)
+    @Html.DisplayFor(item => item.Descricao)
+</div>
+
+<form asp-action="Remove" asp-route-id="@Model.Id">
+    <input type="submit" value="Confirmar" class="btn btn-danger"/>
+</form>
+    <a asp-action="Index">Voltar a Lista</a>
+
+
+
+

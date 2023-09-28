@@ -19,8 +19,8 @@
                 <h4>@Html.DisplayNameFor(modelItem => item.Descricao)</h4>
                 <div>@Html.DisplayFor(modelItem => item.Descricao)</div>
                 <br/>
-                <button>Editar</button>
-                <button>Remover</button>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Editar</a>
+                <a asp-action="Remove" asp-route-id="@item.Id" class="btn btn-primary">Remover</a>
             <hr/>
             <br/>
         </div>
