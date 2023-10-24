@@ -3013,8 +3013,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-              "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+            "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+              "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Slzi21MzXuMnphTv6OXrq7f59m0itwca2exTKt8I9iRJRIHwQiyTjHJePFqTucDZh2jU0vF7jvf5FqPr7bvZhA==",
+  "dgSpecHash": "0A9qFGgYwtPBJSTnxU5iNeWDb6FBM5niWu2/APZD2igEgq9zkgwslpcuT2yqfxZA2kWaGrDqICzceRGKxJX6gw==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
+  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

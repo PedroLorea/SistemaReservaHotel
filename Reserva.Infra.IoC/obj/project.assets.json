@@ -3053,11 +3053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+      "projectUniqueName": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
       "projectName": "Reserva.Infra.IoC",
-      "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+      "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\obj\\",
+      "outputPath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3074,14 +3074,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
-              "projectPath": "c:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj"
+            "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj": {
+              "projectPath": "C:\\Dev\\Reserva\\Reserva.Application\\Reserva.Application.csproj"
             },
-            "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
-              "projectPath": "c:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
+            "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj": {
+              "projectPath": "C:\\Dev\\Reserva\\Reserva.Domain\\Reserva.Domain.csproj"
             },
-            "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
-              "projectPath": "c:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj"
+            "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj": {
+              "projectPath": "C:\\Dev\\Reserva\\Reserva.Infra.Data\\Reserva.Infra.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wukrjv8gjs4tQMjfkJr9CRjzU5XGZts9qRl+ItPaQRZNveObEH3P9MtpbkK0IqGBzAsRcx0IJjnxLploGFVYiA==",
+  "dgSpecHash": "CN++R7lN9NhlBBYZRkwTlW52utvwzR8k8mP3R4FqsWTKV8sP9v/EMaPZFns1ZMBvzYo/brQddF0wr/GBdQU8Ng==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.Domain.Tests\\Reserva.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.Domain.Tests\\Reserva.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

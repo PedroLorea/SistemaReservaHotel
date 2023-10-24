@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQ8MDfIDMjUxZHdroGoGUUn8myRJOS58qH7a486jAvud6yqRH6fdP1aZ1nJR68nexsHpbUVTzmxpaP1kw1qf/g==",
+  "dgSpecHash": "jCthdt6VYPapcyUTIpnKY3eAPdj6sonboRXqZGg3okN6fEE/aQPcIjO/5yDuHl6qvp9/0zWtg/Yg0CYiP7roBA==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.Infra.IoC\\Reserva.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

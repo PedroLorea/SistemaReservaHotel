@@ -17,5 +17,7 @@ namespace Reserva.Infra.Data.Context {
             base.OnModelCreating(builder);
             builder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
         }
+
+        
     }
 }

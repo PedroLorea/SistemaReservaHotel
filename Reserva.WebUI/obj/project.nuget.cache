@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "00qFBpJLtYCw/UYc9UO7i3wAVhpbhPWt2hNMpUEAlEqVVjHxFwDHo5lGcu7qVN6qfLLRM/ee+GdnZHqxLjlDhw==",
+  "dgSpecHash": "GZgRGzUjIzBndfKl6q6PYlWZ1dbe24at5dkq7Jq2jgmD2cqoSBQCy4wrEf6tzSjLMhAI+gI4+KZXIY76J4JQbA==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
+  "projectFilePath": "C:\\Dev\\Reserva\\Reserva.WebUI\\Reserva.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
